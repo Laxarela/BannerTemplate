@@ -1,0 +1,494 @@
+
+.confetti:nth-child(1){
+    width: 2.5px;
+    height: 9px;
+    position: absolute;
+    left: 20.4%;
+    top: 37.5%;
+    background-color: rgba(78,0,139,255);
+}
+.confetti:nth-child(2){
+    width: 2.5px;
+    height: 10px;
+    position: absolute;
+    left: 16%;
+    top: 40%;
+    background-color: #08fafe;
+    transform: rotateZ(-33deg);
+}
+.confetti:nth-child(3){
+    background: transparent;
+    border: 2.5px solid rgba(0,190,211,255);
+    border-radius: 87% 68% 98%;
+    width: 10px;
+    height: 8px;
+    border-top-color: transparent;
+    border-left-color: transparent;
+    left: 8%;
+    top: 45%;
+    position: absolute;
+  }
+
+  .confetti:nth-child(4){
+    height: 2.5px;
+    width: 9px;
+    position: absolute;
+    left: 7.4%;
+    top: 54.5%;
+    background-color: rgba(78,0,139,255);
+    transform: rotateZ(-8deg);
+}
+.confetti:nth-child(5){
+    width: 2.5px;
+    height: 10px;
+    position: absolute;
+    left: 8%;
+    top: 74%;
+    background-color: #08fafe;
+    transform: rotateZ(64deg);
+}
+.confetti:nth-child(6){
+    position: absolute;
+    left: 14%;
+    top: 71%;
+    height: 5px;
+    width: 5px;
+    background-color: rgba(78,0,139,255);
+    border-radius: 50%;
+}
+.confetti:nth-child(7){
+    position: absolute;
+    left: 16%;
+    top: 76%;
+    height: 6px;
+    width: 6px;
+    background-color: #08fafe;
+    border-radius: 50%;
+}
+.confetti:nth-child(8){
+    width: 2.5px;
+    height: 10px;
+    position: absolute;
+    left: 22%;
+    top: 72%;
+    background-color: #08fafe;
+    transform: rotateZ(44deg);
+}
+.confetti:nth-child(9)
+{
+    background: transparent;
+    border: 2.5px solid rgba(0,190,211,255);
+    border-radius: 87% 68% 98%;
+    width: 10px;
+    height: 8px;
+    border-top-color: transparent;
+    border-left-color: transparent;
+    left: 26%;
+    top: 70%;
+    position: absolute;
+    transform: rotateZ(15deg);
+}
+.confetti:nth-child(10){
+    background: transparent;
+    border: 2.5px solid rgba(0,190,211,255);
+    border-radius: 87% 68% 98%;
+    width: 10px;
+    height: 8px;
+    border-top-color: transparent;
+    border-left-color: transparent;
+    left: 28%;
+    top: 80%;
+    position: absolute;
+    transform: rotateZ(65deg);
+}
+
+.confetti:nth-child(11){
+    background: transparent;
+    border: 2.5px solid #08fafe;
+    border-radius: 71% 63% 65%;
+    width: 6px;
+    height: 7px;
+    border-top-color: transparent;
+    border-left-color: transparent;
+    left: 20%;
+    top: 84%;
+    position: absolute;
+    transform: rotateZ(-66deg);
+}
+
+.confetti:nth-child(12){
+    height: 2.5px;
+    width: 9px;
+    position: absolute;
+    left: 32.4%;
+    top: 90.5%;
+    background-color: rgba(78,0,139,255);
+    transform: rotateZ(104deg);
+}
+
+.confetti:nth-child(13){
+    background: transparent;
+    border: 2.5px solid #08fafe;
+    border-radius: 71% 63% 65%;
+    width: 6px;
+    height: 7px;
+    border-top-color: transparent;
+    border-left-color: transparent;
+    left: 66%;
+    top: 32%;
+    position: absolute;
+    transform: rotateZ(109deg);
+}
+.confetti:nth-child(14){
+    background: transparent;
+    border: 2.5px solid rgba(0,190,211,255);
+    border-radius: 87% 68% 98%;
+    width: 10px;
+    height: 8px;
+    border-top-color: transparent;
+    border-left-color: transparent;
+    left: 71%;
+    top: 44%;
+    position: absolute;
+    transform: rotateZ(-83deg);
+}
+.confetti:nth-child(15){
+    width: 2.5px;
+    height: 9px;
+    position: absolute;
+    left: 83.4%;
+    top: 36.5%;
+    background-color: rgba(78,0,139,255);
+    transform: rotateZ(24deg);
+}
+.confetti:nth-child(16){
+    position: absolute;
+    left: 82%;
+    top: 45%;
+    height: 8px;
+    width: 8px;
+    background-color: #08fafe;
+    border-radius: 50%;
+}
+.confetti:nth-child(17){
+    width: 2.5px;
+    height: 10px;
+    position: absolute;
+    left: 91%;
+    top: 41%;
+    background-color: #08fafe;
+    transform: rotateZ(63deg);
+}
+.confetti:nth-child(18){
+    width: 2.5px;
+    height: 9px;
+    position: absolute;
+    left: 76.4%;
+    top: 69.5%;
+    background-color: rgba(78,0,139,255);
+    transform: rotateZ(-63deg);
+}
+.confetti:nth-child(19){
+    background: transparent;
+    border: 2.5px solid rgba(0,190,211,255);
+    border-radius: 87% 68% 98%;
+    width: 10px;
+    height: 8px;
+    border-top-color: transparent;
+    border-left-color: transparent;
+    left: 67%;
+    top: 73%;
+    position: absolute;
+    transform: rotateZ(-98deg);
+}
+.confetti:nth-child(20){
+    background: transparent;
+    border: 2.5px solid #08fafe;
+    border-radius: 71% 63% 65%;
+    width: 6px;
+    height: 7px;
+    border-top-color: transparent;
+    border-left-color: transparent;
+    left: 69%;
+    top: 83%;
+    position: absolute;
+    transform: rotateZ(97deg);
+}
+.confetti:nth-child(21){
+    width: 2.5px;
+    height: 10px;
+    position: absolute;
+    left: 60%;
+    top: 82%;
+    background-color: #08fafe;
+    transform: rotateZ(-44deg);
+}
+.confetti:nth-child(22){
+    position: absolute;
+    left: 56%;
+    top: 91%;
+    height: 5px;
+    width: 5px;
+    background-color: rgba(78,0,139,255);
+    border-radius: 50%;
+}
+.confetti:nth-child(23){
+    position: absolute;
+    left: 61%;
+    top: 89%;
+    height: 6px;
+    width: 6px;
+    background-color: #08fafe;
+    border-radius: 50%;
+}
+
+/*****************************************************************/
+
+
+
+.confetti5:nth-child(1) {
+    width: 2.5px;
+    height: 9px;
+    position: absolute;
+    left: 16%;
+    top: 23%;
+    background-color: #4f2e7a ;
+    transform: rotateZ(-33deg);
+
+}
+.confetti5:nth-child(2){
+    width: 2.5px;
+    height: 12px;
+    position: absolute;
+    left: 12%;
+    top: 27%;
+    background-color: #08fafe;
+    transform: rotateZ(-20deg);
+    
+}
+
+.confetti5:nth-child(3){
+    background: transparent;
+    border: 2.5px solid rgba(0,190,211,255);
+    border-radius: 81% 58% 110%;
+    width: 10px;
+    height: 9px;
+    border-top-color: transparent;
+    border-left-color: transparent;
+    left: 5%;
+    top: 30%;
+    position: absolute;
+ 
+  }
+
+.confetti5:nth-child(4){
+    height: 2.5px;
+    width: 10px;
+    position: absolute;
+    left: 4.4%;
+    top: 39.5%;
+    background-color: rgba(78,0,139,255);
+    transform: rotateZ(-8deg);
+ 
+}
+.confetti5:nth-child(5){
+    width: 2.5px;
+    height: 12px;
+    position: absolute;
+    left: 6%;
+    top: 59%;
+    background-color: #08fafe;
+    transform: rotateZ(64deg);
+}
+.confetti5:nth-child(6){
+    position: absolute;
+    left: 11%;
+    top: 58%;
+    height: 5px;
+    width: 5px;
+    background-color: rgba(78,0,139,255);
+    border-radius: 50%;
+}
+.confetti5:nth-child(7){
+    position: absolute;
+    left: 12%;
+    top: 64%;
+    height: 6px;
+    width: 6px;
+    background-color: #08fafe;
+    border-radius: 50%;
+}
+
+.confetti5:nth-child(8){
+    background: transparent;
+    border: 2.5px solid rgba(0,190,211,255);
+    border-radius: 87% 68% 98%;
+    width: 10px;
+    height: 10px;
+    border-top-color: transparent;
+    border-left-color: transparent;
+    left: 6%;
+    top: 68%;
+    position: absolute;
+    transform: rotateZ(77deg);
+}
+
+.confetti5:nth-child(9){
+    background: transparent;
+    border: 2.5px solid rgba(0,190,211,255);
+    border-radius: 84% 80% 98%;
+    width: 7px;
+    height: 8px;
+    border-top-color: transparent;
+    border-left-color: transparent;
+    left: 14%;
+    top: 72%;
+    position: absolute;
+    transform: rotateZ(-70deg);
+}
+.confetti5:nth-child(10){
+    height: 2.5px;
+    width: 9px;
+    position: absolute;
+    left: 10.4%;
+    top: 78.5%;
+    background-color: rgba(78,0,139,255);
+    transform: rotateZ(104deg);
+}
+.confetti5:nth-child(11){
+    width: 2.5px;
+    height: 10px;
+    position: absolute;
+    left: 18%;
+    top: 61%;
+    background-color: #08fafe;
+    transform: rotateZ(17deg);
+}
+.confetti5:nth-child(12){
+    width: 2.5px;
+    height: 10px;
+    position: absolute;
+    left: 85.4%;
+    top: 23.5%;
+    background-color: rgba(78,0,139,255);
+    transform: rotateZ(24deg);
+}
+.confetti5:nth-child(13){
+    background: transparent;
+    border: 2.5px solid rgba(0,190,211,255);
+    border-radius: 84% 80% 98%;
+    width: 10px;
+    height: 13px;
+    border-top-color: transparent;
+    border-left-color: transparent;
+    left: 82%;
+    top: 31%;
+    position: absolute;
+    transform: rotateZ(-70deg);
+}
+.confetti5:nth-child(14){
+    width: 2.5px;
+    height: 11px;
+    position: absolute;
+    left: 94%;
+    top: 34%;
+    background-color: #08fafe;
+    transform: rotateZ(63deg);
+}
+.confetti5:nth-child(15){
+    position: absolute;
+    left: 89%;
+    top: 30%;
+    height: 9px;
+    width: 9px;
+    background-color: #08fafe;
+    border-radius: 50%;
+}
+.confetti5:nth-child(16){
+    background: transparent;
+    border: 2.5px solid #08fafe;
+    border-radius: 71% 63% 65%;
+    width: 6px;
+    height: 9px;
+    border-top-color: transparent;
+    border-left-color: transparent;
+    left: 84%;
+    top: 43%;
+    position: absolute;
+    transform: rotateZ(100deg);
+}
+.confetti5:nth-child(17){
+    background: transparent;
+    border: 2.5px solid #08fafe;
+    border-radius: 71% 63% 65%;
+    width: 6px;
+    height: 9px;
+    border-top-color: transparent;
+    border-left-color: transparent;
+    left: 92%;
+    top: 56%;
+    position: absolute;
+    transform: rotateZ(100deg);
+}
+.confetti5:nth-child(18){
+    width: 2.5px;
+    height: 10px;
+    position: absolute;
+    left: 84.4%;
+    top: 53.5%;
+    background-color: rgba(78,0,139,255);
+    transform: rotateZ(-63deg);
+}
+.confetti5:nth-child(19){
+    position: absolute;
+    left: 88%;
+    top: 68%;
+    height: 6px;
+    width: 6px;
+    background-color: #08fafe;
+    border-radius: 50%;
+}
+.confetti5:nth-child(20){
+    position: absolute;
+    left: 90%;
+    top: 73%;
+    height: 5px;
+    width: 5px;
+    background-color: rgba(78,0,139,255);
+    border-radius: 50%;
+}
+.confetti5:nth-child(21){
+    width: 2.5px;
+    height: 11px;
+    position: absolute;
+    left: 85%;
+    top: 70%;
+    background-color: #08fafe;
+    transform: rotateZ(-44deg);
+}
+.confetti5:nth-child(22){
+    background: transparent;
+    border: 2.5px solid rgba(0,190,211,255);
+    border-radius: 84% 80% 98%;
+    width: 10px;
+    height: 11px;
+    border-top-color: transparent;
+    border-left-color: transparent;
+    left: 83%;
+    top: 59%;
+    position: absolute;
+    transform: rotateZ(-83deg);
+}
+.confetti5:nth-child(23){
+    background: transparent;
+    border: 2.5px solid rgba(0,190,211,255);
+    border-radius: 87% 68% 98%;
+    width: 10px;
+    height: 8px;
+    border-top-color: transparent;
+    border-left-color: transparent;
+    left: 12%;
+    top: 38%;
+    position: absolute;
+    transform: rotateZ(180deg);
+}
